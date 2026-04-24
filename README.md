@@ -8,7 +8,7 @@ This dataset is used for customer churn analysis in the banking industry.
 
 ## <img width="4407" height="2512" alt="Picture3" src="https://github.com/user-attachments/assets/396f01b4-4374-4abe-ac0f-c77f5d0cb0bc" />
 
-## <img width="4407" height="2512" alt="Picture4" src="https://github.com/user-attachments/assets/dd153ef5-8ddd-4dbb-ae64-fe0f85be82a7" />
+## <img width="4407" height="2512" alt="Picture4" src="https://github.com/user-attachments/assets/c1c4e4f1-7d55-44ce-8869-19ea7b45455b" />
 
 ## <img width="4407" height="2511" alt="Picture5" src="https://github.com/user-attachments/assets/e8d60574-0d57-4624-b246-c77280a1a3b6" />
 
