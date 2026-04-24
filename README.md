@@ -1,7 +1,7 @@
 # Power-BI-
 ## Bank Customers Churn Analysis
 This dataset is used for customer churn analysis in the banking industry. 
-👉 Goal: Predict or analyze which customers are likely to leave the bank!!!
+My project goalis to analyze which customers are likely to leave the bank!!!
    
 ## 👇 Click the Link to see full dashboard pages 📊
 👇Live Power BI Project
