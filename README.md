@@ -4,7 +4,7 @@ This dataset is used for customer churn analysis in the banking industry.
 ## 👉 Goal: Predict or analyze which customers are likely to leave the bank!!!
 ## <img width="4407" height="2511" alt="Picture1" src="https://github.com/user-attachments/assets/7a0cf69d-5e55-4853-8f17-25fade910175" />
 
-## <img width="4407" height="2511" alt="Picture2" src="https://github.com/user-attachments/assets/99a0dbcb-cbf5-4ed5-aeea-48c667a79a76" />
+## <img width="4407" height="2511" alt="Picture2" src="https://github.com/user-attachments/assets/7737c4eb-5493-4698-a822-a2abd00c70b1" />
 
 ## <img width="4407" height="2512" alt="Picture3" src="https://github.com/user-attachments/assets/396f01b4-4374-4abe-ac0f-c77f5d0cb0bc" />
 
