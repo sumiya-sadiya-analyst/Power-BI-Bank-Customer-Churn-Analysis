@@ -3,7 +3,9 @@
 This dataset is used for customer churn analysis in the banking industry. 
 ## 👉 Goal: Predict or analyze which customers are likely to leave the bank!!!
 
-## Live Power BI Project 📊 👇 Click the Link to see full dashboard pages
+## 👇Live Power BI Project   
+## 👇 Click the Link to see full dashboard pages 📊
+
 - <a href= "https://app.powerbi.com/view?r=eyJrIjoiYzY5NGVlM2ItMWIxYS00OWQwLTkwYzctMTU5NzE1YjA4MTkyIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 
 
