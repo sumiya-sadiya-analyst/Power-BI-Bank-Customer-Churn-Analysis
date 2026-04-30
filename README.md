@@ -9,7 +9,7 @@ My project goal is to analyze which customers are likely to leave the bank!!!
 - Exploratory Data Analysis (EDA):Prepared several dashboards pages    
 ## 👇 Click the Link to see full dashboard pages 📊
 👇Live Power BI Project
-- <a href= "https://app.powerbi.com/view?r=eyJrIjoiYzY5NGVlM2ItMWIxYS00OWQwLTkwYzctMTU5NzE1YjA4MTkyIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
+- <a href= "https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQwOGMzOTMtOTFiMi00NjExLTk4YTItZmIzNmJjMjIwNzMzIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
 ## Video Preview:👇
 https://github.com/user-attachments/assets/f0530da6-65d4-4fd1-8ecd-6970b3704883
 
