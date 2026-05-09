@@ -5,8 +5,8 @@ My project goal is to analyze which customers are likely to leave the bank!!!
 ## Process
 - Data Collection Stage: Gathered and imported the CSV files in power BI.
 - Data Preparation stage: Cleaned the data by handling missing values, removing duplicates, select relevant data types etc.
-- Data Modeling Stage: Built star schema model where shipments data table represent "fact table" and oters are dimentional tables.
-- Exploratory Data Analysis (EDA):Prepared several dashboards pages    
+- Data Modeling Stage: Built star schema model where bank customer data table represents "fact table" and oters are dimentional tables.
+- Exploratory Data Analysis (EDA):Prepared several dashboards pages for analysis.    
 ## 👇 Click the Link to see full dashboard pages 📊
 👇Live Power BI Project
 - <a href= "https://app.fabric.microsoft.com/view?r=eyJrIjoiNDQwOGMzOTMtOTFiMi00NjExLTk4YTItZmIzNmJjMjIwNzMzIiwidCI6IjY3NmJmOTIyLTRjZDMtNGRkNi1hODYyLWNiNTAyMWYwNzUzMSIsImMiOjEwfQ%3D%3D">Live Power BI Project</a>
